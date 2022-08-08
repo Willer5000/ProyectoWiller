@@ -1,0 +1,30 @@
+#login1{
+    left: 50px;
+}
+#BarraNav{
+    background: #44A08D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+#SecPerfil{
+    background: #16222A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3A6073, #16222A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#presentacion{
+      color: antiquewhite;
+        font-size: small;
+        }
+#Fotoperfil{
+    position: relative;
+    bottom: 80px;
+  }
+
+#parrafo1{
+    color: gainsboro;
+    right: 800px;
+    justify-content: right;
+    text-align: justify;
+    font-size: small;
+}
