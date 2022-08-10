@@ -45,3 +45,46 @@ background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, F
 #DescExp{
     text-align: justify;
 }
+#tabExp{
+    border-collapse: collapse; 
+    font-size: smaller;
+    vertical-align: middle;
+}
+#colemp{
+    width: 10px;
+}
+#colug{
+    width: 10px;
+}
+#colcar{
+    width: 10px;
+}
+#banner {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+#titulos{
+    text-align: center;
+    font-size: x-small;
+    line-height: 2px;
+}
+#box1{
+float: left;
+}
+#box2{
+    float: left;
+}
+#box3{
+    float: left;
+}
+#tacursos{
+    font-size: small;
+    line-height: normal;
+}
+
+m b{
+    font-size: medium;
+    font-style: normal;
+    color: black;
+}
