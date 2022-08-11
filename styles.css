@@ -66,25 +66,24 @@ background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, F
 }
 #titulos{
     text-align: center;
-    font-size: x-small;
+    font-size: small;
+    font-style: normal;
     line-height: 2px;
 }
 #box1{
-float: left;
+     border-color: #16222A;
 }
 #box2{
-    float: left;
+
 }
-#box3{
-    float: left;
-}
+
 #tacursos{
     font-size: small;
     line-height: normal;
 }
 
 m b{
-    font-size: medium;
+    font-size: x-large;
     font-style: normal;
-    color: black;
+    color: teal;
 }
