@@ -68,18 +68,18 @@ background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, F
     text-align: center;
     font-size: small;
     font-style: normal;
-    line-height: 2px;
-}
-#box1{
-     border-color: #16222A;
-}
-#box2{
-
+    line-height: 100%;
+    overflow: scroll hidden;
 }
 
 #tacursos{
+    border-collapse: collapse; 
     font-size: small;
     line-height: normal;
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    margin-block: 20px;
 }
 
 m b{
