@@ -17,11 +17,11 @@
         font-size: small;
         }
 #editBanner{
-            position:relative;
-            left: 130px;
+            position:absolute;
+            left: 1300px;
             top: 100px;
             z-index: 1;
-            color: azure;
+            color: black;
 }
 #editFotoPerfil{
             position:absolute;
