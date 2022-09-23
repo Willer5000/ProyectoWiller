@@ -16,6 +16,32 @@
       color: antiquewhite;
         font-size: small;
         }
+#editBanner{
+            position:absolute;
+            left: 1300px;
+            top: 100px;
+            z-index: 1;
+            color: black;
+}
+#editFotoPerfil{
+            position:absolute;
+            left: 130px;
+            bottom: 100px;
+            z-index: 1;
+            color: azure;
+          }
+#editDatosPerfil{
+            text-indent: 0.5em;
+            color: azure;
+          } 
+#editDatosExp{
+            text-indent: 0.5em;
+            color: black;
+          }      
+#editDatosEdu{
+            text-indent: 0.5em;
+            color: black;
+          }              
 #Fotoperfil{
     position: relative;
     bottom: 80px;
@@ -82,7 +108,7 @@ background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, F
     margin-block: 20px;
 }
 
-m b{
+#cursosYTalleres{
     font-size: x-large;
     font-style: normal;
     color: teal;
